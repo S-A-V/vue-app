@@ -1,0 +1,12 @@
+modules:
+  - name: demo
+    frontend:
+      name:
+        zh: 演示
+        en: Demo
+
+  - name: demo-2
+    frontend:
+      name:
+        zh: 演示2
+        en: Demo2
